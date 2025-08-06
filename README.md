@@ -1,0 +1,1 @@
+This is a collaborative IDE.Coding is not the same as before. But wait, this IDE is different, here you can chat and video call, form a group, and code collaboratively in real-time. Whatever you code is visible to your entire team simultaneously in real-time. It simple to use - login, create a new workspace and add collaborators or use a saved one, and start coding.
